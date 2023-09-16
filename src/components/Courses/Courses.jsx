@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import Course from "../Course/Course";
 import PropTypes from 'prop-types';
 
-const Courses = () => {
+const Courses = ({ selectedCoursesHandler }) => {
     // managing state for fake api data
     const [coursesData, setCoursesData] = useState([]);
 
@@ -15,7 +15,7 @@ const Courses = () => {
     return (
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 w-full lg:w-4/5">
             {
-                coursesData.map((courseData, idx) => <Course key={idx} courseData={courseData}></Course>)
+                coursesData.map((courseData, idx) => <Course key={idx} courseData={courseData} selectedCoursesHandler={selectedCoursesHandler}></Course>)
             }
         </div>
     );

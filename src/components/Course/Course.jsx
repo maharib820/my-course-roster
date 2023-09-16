@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 
-const Course = ({courseData}) => {
+const Course = ({ courseData, selectedCoursesHandler }) => {
     return (
         <div>
             <div className="card bg-base-100">
@@ -24,7 +24,7 @@ const Course = ({courseData}) => {
                         </div>
                     </div>
                     <div className="card-actions">
-                        <button className="btn btn-primary w-full bg-[#2F80ED] outline-none border-none mb-4">Select</button>
+                        <button onClick={() => selectedCoursesHandler(courseData)} className="btn btn-primary w-full bg-[#2F80ED] outline-none border-none mb-4">Select</button>
                     </div>
                 </div>
             </div>
