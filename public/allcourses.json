@@ -1,0 +1,74 @@
+[
+    {
+        "id": 12345,
+        "cover": "https://i.ibb.co/S33mvLm/Rectangle-2-2.png",
+        "title": "Introduction to C Programming",
+        "description": "Explore the fascinating world of C programming in this introductory course. Learn how to design, analyze, and optimize algorithms for solving real-world problems efficiently. From sorting data to optimizing routes, this course equips you with essential algorithmic skills for success in computer science and problem-solving.",
+        "price": 15000,
+        "credit": 1
+    },
+    {
+        "id": 67890,
+        "cover": "https://i.ibb.co/pPxHDvm/Rectangle-2-3.png",
+        "title": "Introduction to Algorithms",
+        "description": "Explore the fascinating world of algorithms in this introductory course. Learn how to design, analyze, and optimize algorithms for solving real-world problems efficiently. From sorting data to optimizing routes, this course equips you with essential algorithmic skills for success in computer science and problem-solving.",
+        "price": 25000,
+        "credit": 2
+    },
+    {
+        "id": 54321,
+        "cover": "https://i.ibb.co/wBBm6CY/Rectangle-2-4.png",
+        "title": "Introduction to C++ for DSA",
+        "description": "Explore the fascinating world of C++ in this introductory course. Learn how to design, analyze, and optimize algorithms for solving real-world problems efficiently. From sorting data to optimizing routes, this course equips you with essential algorithmic skills for success in computer science and problem-solving.",
+        "price": 10000,
+        "credit": 10
+    },
+    {
+        "id": 98765,
+        "cover": "https://i.ibb.co/ZVwyJXq/Rectangle-3.png",
+        "title": "Basic Data Structures",
+        "description": "Explore the fascinating world of DSA in this introductory course. Learn how to design, analyze, and optimize algorithms for solving real-world problems efficiently. From sorting data to optimizing routes, this course equips you with essential algorithmic skills for success in computer science and problem-solving.",
+        "price": 35000,
+        "credit": 5
+    },
+    {
+        "id": 24680,
+        "cover": "https://i.ibb.co/MMy1kbC/Rectangle-2.png",
+        "title": "Introduction to OOP Python",
+        "description": "Explore the fascinating world of python in this introductory course. Learn how to design, analyze, and optimize algorithms for solving real-world problems efficiently. From sorting data to optimizing routes, this course equips you with essential algorithmic skills for success in computer science and problem-solving.",
+        "price": 19000,
+        "credit": 5
+    },
+    {
+        "id": 13579,
+        "cover": "https://i.ibb.co/d29D1rh/Rectangle-2-5.png",
+        "title": "Software Engineering",
+        "description": "Explore the fascinating world of SE in this introductory course. Learn how to design, analyze, and optimize algorithms for solving real-world problems efficiently. From sorting data to optimizing routes, this course equips you with essential algorithmic skills for success in computer science and problem-solving.",
+        "price": 23000,
+        "credit": 2
+    },
+    {
+        "id": 86420,
+        "cover": "https://i.ibb.co/NtyNv9H/Rectangle-3-1.png",
+        "title": "AWS, Cloud Computing",
+        "description": "Explore the fascinating world of AWS CC in this introductory course. Learn how to design, analyze, and optimize algorithms for solving real-world problems efficiently. From sorting data to optimizing routes, this course equips you with essential algorithmic skills for success in computer science and problem-solving.",
+        "price": 35000,
+        "credit": 5
+    },
+    {
+        "id": 11223,
+        "cover": "https://i.ibb.co/z5zyqqs/Rectangle-2-1.png",
+        "title": "Database (MySQL)",
+        "description": "Explore the fascinating world of MySQL in this introductory course. Learn how to design, analyze, and optimize algorithms for solving real-world problems efficiently. From sorting data to optimizing routes, this course equips you with essential algorithmic skills for success in computer science and problem-solving.",
+        "price": 19000,
+        "credit": 5
+    },
+    {
+        "id": 99887,
+        "cover": "https://i.ibb.co/SvW3xz4/Rectangle-2-6.png",
+        "title": "Problem-Solving Part",
+        "description": "Explore the fascinating world of PSP in this introductory course. Learn how to design, analyze, and optimize algorithms for solving real-world problems efficiently. From sorting data to optimizing routes, this course equips you with essential algorithmic skills for success in computer science and problem-solving.",
+        "price": 23000,
+        "credit": 2
+    }
+]
