@@ -41,7 +41,7 @@ function App() {
   return (
     <>
       <Header></Header>
-      <div className='flex flex-col lg:flex-row justify-between pb-24 px-2 lg:px-16 gap-6'>
+      <div className='flex flex-col xl:flex-row justify-between pb-24 px-2 lg:px-16 gap-6'>
         <Courses selectedCoursesHandler={selectedCoursesHandler}></Courses>
         <CourseSelectedInfo selectedCourses={selectedCourses} remCredit={remCredit} currentCredit={currentCredit} price={price}></CourseSelectedInfo>
       </div>

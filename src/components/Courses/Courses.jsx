@@ -13,7 +13,7 @@ const Courses = ({ selectedCoursesHandler }) => {
     }, [])
 
     return (
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 w-full lg:w-4/5">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 w-full xl:w-4/5">
             {
                 coursesData.map((courseData, idx) => <Course key={idx} courseData={courseData} selectedCoursesHandler={selectedCoursesHandler}></Course>)
             }
